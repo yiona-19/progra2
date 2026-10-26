@@ -22,7 +22,7 @@ public class Practica1 {
 	}
 	
 	public void imprimirInfo () {
-		System.out.println("Nombre : " + nombre);
+		System.out.println("Nombre de la persona: " + nombre);
 		System.out.println("Apellido : " + apellido);
 		System.out.println("Cedula : " + cedula);
 		System.out.println("Servicio : " + servicio);
